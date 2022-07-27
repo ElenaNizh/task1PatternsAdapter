@@ -3,7 +3,7 @@ public class Main {
 
         Calculator calculator = new Calculator();
 
-        System.out.println("Вычисление с помощью класса Calculator:\nРезультат возведение числа: "
+        System.out.println("Вычисление с помощью класса Calculator:\nРезультат возведение в степень: "
                 + calculator.newFormula().
                 addOperand(3).
                 addOperand(4).
